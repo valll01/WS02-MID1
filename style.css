@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+html, body{
+    font-family: Poppins, Arial, sans-serif;
+    margin: 0;
+    }
+    header{
+    background-color: #343434;
+    padding: 5px;
+    text-align: center;
+    }
+    h1{
+    font-size: 60px;
+    color: 	#c9c9c9;
+    font-family: poppins;
+    line-height: 1;
+    }
+    p.about{
+        color: #333333;
+        letter-spacing: 1px;
+        font-size: 15px;
+        font-style: ;
+        margin: auto;
+        line-height: 1;
+    }
+    h2{
+      font-size: 30px;
+        color: #41372B;
+        text-align: center;
+        font-family: poppins;
+    }
+    ol{
+      letter-spacing: 1px;
+      line-height: 1.5 ;
+      font-size: 15px;
+    }
+    header img{
+    border-radius: 50%;
+    width: 300px;
+    border: 10px solid #F2FFFF;
+    margin-top: 4%;
+   }
+
+    .content{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+    }
+    img.big-image{
+      max-width: 100%;
+      box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    }
+      p.cap3on{
+    font-size: 16px;
+    color: black;
+    font-style: italic;
+    letter-spacing: 0.5px;
+    }
+    .image-section {
+      text-align: center;
+      padding: 2rem 0;
+  }
+  .image-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+  .rounded-image-container {
+      flex: 1;
+      padding: 0 1rem;
+      text-align: center;
+  }
+  .action-image {
+      width: 200px; 
+      height: 200px;
+      border-radius: 10%;
+  }
+  .rounded-image-container {
+      flex: 1;
+      padding: 0 1rem;
+      text-align: center;
+      font-size: 2rem;
+  }
+  .rounded-image {
+      border-radius: 50%;
+      max-width: 100%;
+      box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+  .image-caption {
+      font-size: 1rem;
+      color: #7A2538;
+      margin-top: 0.5rem;
+  }
+    ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    }
+    p.hatdog{
+        margin-right: 50%;
+    }
+    a{
+    color: #909090;
+    text-decoration: none;
+    margin-right: 1%;
+    font-family: poppins;
+    }
+    
+    footer{
+      margin-top: 20px;
+      padding: 40px 20px;
+      background-color: #838383;
+      }
+      footer ul li a{
+        color: #F2FFFF;
+      }
+      footer ul{
+      text-align: center;
+      }
+      footer ul li{
+      margin: 1px;
+      }
